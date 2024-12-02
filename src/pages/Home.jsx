@@ -29,7 +29,7 @@ const Home = () => {
   return (
     // container home page ni orab turuvchi div
     <div className='container mx-auto w-[80vw]'> 
-      <div className='w-[1110px] h-[455px] bg-gray-100 rounded-3xl'>
+      <div className='w-[1110px] h-[455px] bg-gray-100 rounded-3xl mt-5'>
         <h1 className='text-5xl font-bold ml-20 mt-10 absolute'>SEEDRA Basil Seeds for <br /> Indoor and Outdoor Planting</h1>
         <p className='text-xl ml-20 mt-40 absolute'>Be sure of our quality - the freshest batches of this season. Non-GMO, <br /> Heirloom - our seeds were tested and have the best germination ratings. <br /> Your easy growing experience is our guarantee</p>
         <h1 className='text-5xl ml-20 mt-[17rem] absolute font-bold flex gap-4 items-center'><RiFireFill className='text-5xl text-orange-600 '/>$12.56<del className='text-gray-600 text-2xl ml-60 mt-1 absolute'>$15.56</del></h1>
